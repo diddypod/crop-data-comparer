@@ -1,3 +1,5 @@
+# Crop-data Comparer
+
 This program was made for the Department of Planning, Statistics and Programme Management, Government of West Bengal, India under Birla Institiute of Technology and Science, Pilani's Practice School 1 programme.
 
 The script [compare.py](compare.py) takes input over 3 years in the form of .xslx files for each crop, sorted district wise, and produces output by sorting changes into given blocks and presenting in the form of .docx files for each district.
