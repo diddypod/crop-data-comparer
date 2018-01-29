@@ -6,8 +6,4 @@ The script [compare.py](compare.py) takes input over 3 years in the form of .xsl
 
 The script uses [openpyxl](https://openpyxl.readthedocs.io/) and [python-docx](https://python-docx.readthedocs.io/en/latest/), and was converted to a .exe file using [py2exe](http://www.py2exe.org) for in-office use and circulation.
 
-The script [detailed-compare.py](detailed-compare.py) takes input over 3 years in the form of .xslx files for each crop, sorted district wise, and produces exact compatison figures for each crop over both years for each district into separate .xlsx files.
-
-The script uses [openpyxl](https://openpyxl.readthedocs.io/), and was converted to a .exe file using [py2exe](http://www.py2exe.org) for in-office use and circulation.
-
 These were developed in tandem with [crop-data-converter](https://github.com/diddypod/crop-data-converter).
